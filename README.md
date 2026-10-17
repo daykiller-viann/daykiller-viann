@@ -1,6 +1,6 @@
 # Hi 👋, I'm Viannsec
 
-### A Linux sysadmin frontend developer from Indonesia
+### A Linux sysadmin  and frontend developer from Indonesia
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daykiller-viann&label=Profile views&color=0e75b6&style=flat" alt="daykiller-viann" /> </p>
 
