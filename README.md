@@ -1,19 +1,32 @@
-<h1 align="center">Hai 👋, saya Viannsec</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari Indonesia</h3>
+# Hi 👋, I'm Viannsec
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viannsec&label=Profile%20views&color=0e75b6&style=flat" alt="viannsec" /> </p>
+### A passionate frontend developer from Indonesia
 
-- 🌱 Saat ini saya sedang belajar **Jaringan, Kerentanan Web, Pengembang Web**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viannsec&label=Profile views&color=0e75b6&style=flat" alt="Viannsec" /> </p>
 
-<h3 align="left">Terhubung dengan saya:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Viannsec" alt="Viannsec" /></a> </p>
+
+- 🔭 I'm currently working on **Computer Engineering and Networking Class Website**
+
+- 🌱 I'm currently learning **Networking,Mikrotik,Web Vulnerability,Web Application**
+
+- 💬 Ask me about **Basic html,Command Line Interfaces**
+
+- 👨‍💻 All of my projects are available at **[https://www.hackerrank.com/certificates/iframe/f6066fbcd19f](https://www.hackerrank.com/certificates/iframe/f6066fbcd19f)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/Viannsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Viannsec" height="30" width="40" /></a>
+<a href="https://instagram.com/daykiller_vian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daykiller_vian" height="30" width="40" /></a>
+<a href="https://hackerrank.com/Imanuel Oktavian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Imanuel Oktavian" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Bahasa dan Alat:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viannsec&show_icons=true&locale=en&layout=compact" alt="viannsec" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viannsec&show_icons=true&locale=en&layout=compact" alt="Viannsec" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=viannsec&show_icons=true&locale=en" alt="viannsec" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viannsec&show_icons=true&locale=en" alt="Viannsec" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viannsec&" alt="viannsec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viannsec&" alt="Viannsec" /></p>
+
