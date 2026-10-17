@@ -2,9 +2,9 @@
 
 ### A passionate frontend developer from Indonesia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daykiller-viann&label=Profile views&color=0e75b6&style=flat" alt="daykiller-viann" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=daykiller-viann&label=Profile views&color=0e75b6&style=flat" alt="daykiller-viann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daykiller-viann" alt="daykiller-viann" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daykiller-viann" alt="daykiller-viann" /></a> </p> -->
 
 - 🔭 I'm currently working on **Computer Engineering and Networking Class Website**
 
