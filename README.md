@@ -32,5 +32,6 @@
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="600" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/basicpython.png"  />
-  <img data-importer="image" height="600" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
+  <br>
+  <img data-importer="image" height="550" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
 </div>
