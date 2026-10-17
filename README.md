@@ -2,9 +2,9 @@
 
 ### A passionate frontend developer from Indonesia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Viannsec&label=Profile views&color=0e75b6&style=flat" alt="Viannsec" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Viannsec&label=Profile views&color=0e75b6&style=flat" alt="Viannsec" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Viannsec" alt="Viannsec" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Viannsec" alt="Viannsec" /></a> </p> -->
 
 - 🔭 I'm currently working on **Computer Engineering and Networking Class Website**
 
