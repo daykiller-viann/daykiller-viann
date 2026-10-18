@@ -30,10 +30,11 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daykiller-viann&" alt="daykiller-viann" /></p> -->
 <div class="ctn" justify-content="space-between"
-<div data-importer="image" >
+<div data-importer="image" justify-content="space-between">
   <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/BasicPython.png" />
+  <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
 </div>
 
 <div data-importer="image" >
-  <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
+  
 </div>
