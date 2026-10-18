@@ -32,7 +32,7 @@
 
 <div data-importer="image" align="left">
   <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/BasicPython.png" />
-   <img data-importer="image" height="280" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
+   <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
 </div>
 
 <div data-importer="image" align="center">
