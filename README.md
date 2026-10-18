@@ -31,9 +31,10 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daykiller-viann&" alt="daykiller-viann" /></p> -->
 
 <div data-importer="image" align="left">
-  <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/BasicPython.png"  />
+  <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/BasicPython.png" />
+   <img data-importer="image" height="280" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
 </div>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="280" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
+ 
 </div>
