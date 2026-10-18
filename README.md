@@ -29,12 +29,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daykiller-viann&show_icons=true&locale=en" alt="daykiller-viann" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daykiller-viann&" alt="daykiller-viann" /></p> -->
-
-<div data-importer="image" align="justify">
+<div class="ctn" justify-content="space-between"
+<div data-importer="image" >
   <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/BasicPython.png" />
-   <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
 </div>
 
-<div data-importer="image" align="center">
- 
+<div data-importer="image" >
+  <img data-importer="image" height="300" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/CIIS.png" />
 </div>
