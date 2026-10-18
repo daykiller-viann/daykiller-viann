@@ -30,7 +30,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daykiller-viann&" alt="daykiller-viann" /></p> -->
 
-<div data-importer="image" align="center">
+<div data-importer="image" align="left">
   <img data-importer="image" height="600" src="https://github.com/daykiller-viann/daykiller-viann/blob/main/BasicPython.png"  />
 </div>
 
