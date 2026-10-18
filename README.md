@@ -26,26 +26,19 @@
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> </a> 
 
- <!-- Cyber Security & Networking Tools (Menggunakan Ikon Pengganti yang Valid) -->
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="nmap" width="40" height="40"/> </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/> </a> 
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" alt="burpsuite" width="40" height="40"/> </a> 
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="metasploit" width="40" height="40"/> </a> 
-  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hashcat/hashcat-original.svg" alt="hashcat" width="40" height="40"/> </a> 
-  <!-- John The Ripper -> Menggunakan Ikon Kali Linux (Representatif) -->
-  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" alt="johntheripper" width="40" height="40"/> </a> 
-  <!-- SQLMap -> Menggunakan Ikon Bash/Terminal -->
-  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="sqlmap" width="40" height="40"/> </a> 
-  <!-- Aircrack-ng -> Menggunakan Ikon Wireless -->
-  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireless/wireless-original.svg" alt="aircrackng" width="40" height="40"/> </a> 
-  <!-- Wifite -> Menggunakan Ikon WiFi -->
-  <a href="https://github.com/derv82/wifite2" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wifi/wifi-original.svg" alt="wifite" width="40" height="40"/> </a> 
-  <!-- Nikto -> Menggunakan Ikon Terminal -->
-  <a href="https://cirt.net/Nikto2" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" alt="nikto" width="40" height="40"/> </a> 
-  <!-- Hydra -> Menggunakan Ikon Hydra (Jika tersedia) atau Terminal -->
-  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hydra/hydra-original.svg" alt="hydra" width="40" height="40"/> </a> 
-  <!-- Winbox/Mikrotik -> Menggunakan Ikon Router -->
-  <a href="https://mikrotik.com/software" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/router/router-original.svg" alt="winbox" width="40" height="40"/> </a> 
+ <!-- Cyber Security & Networking Tools -->
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> <img src="assets/nmap-original.svg" alt="nmap" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="assets/wireshark-original.svg" alt="wireshark" width="40" height="40"/> </a> 
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="assets/burpsuite-original.svg" alt="burpsuite" width="40" height="40"/> </a> 
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> <img src="assets/metasploit-original.svg" alt="metasploit" width="40" height="40"/> </a> 
+  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"> <img src="assets/hashcat-original.svg" alt="hashcat" width="40" height="40"/> </a> 
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> <img src="assets/kalilinux-original.svg" alt="johntheripper" width="40" height="40"/> </a> 
+  <a href="https://sqlmap.org/" target="_blank" rel="noreferrer"> <img src="assets/bash-original.svg" alt="sqlmap" width="40" height="40"/> </a> 
+  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> <img src="assets/wireless-original.svg" alt="aircrackng" width="40" height="40"/> </a> 
+  <a href="https://github.com/derv82/wifite2" target="_blank" rel="noreferrer"> <img src="assets/wifi-original.svg" alt="wifite" width="40" height="40"/> </a> 
+  <a href="https://cirt.net/Nikto2" target="_blank" rel="noreferrer"> <img src="assets/terminal-original.svg" alt="nikto" width="40" height="40"/> </a> 
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> <img src="assets/hydra-original.svg" alt="hydra" width="40" height="40"/> </a> 
+  <a href="https://mikrotik.com/software" target="_blank" rel="noreferrer"> <img src="assets/router-original.svg" alt="winbox" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daykiller-viann&show_icons=true&locale=en&layout=compact" alt="daykiller-viann" /></p>
